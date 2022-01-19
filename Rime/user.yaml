@@ -1,0 +1,9 @@
+var:
+  last_build_time: 1642613987
+  option:
+    ascii_punct: false
+    simplification: true
+  previously_selected_schema: double_pinyin_mspy
+  schema_access_time:
+    double_pinyin_mspy: 1642611526
+    emoji: 1642609899

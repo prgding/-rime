@@ -1,0 +1,35 @@
+patch:
+  style/horizontal: true      # 候选横排
+  style/font_face: "Helvetica"  # 字体名称，从记事本等处的系统字体对话框裏能看到
+  style/font_point: 16     # 字号，只认数字的，不认「五号」、「小五」这样的
+  style/label_font_point: 13
+
+
+# 适用于【鼠鬚管】0.9.13+
+# 位置：~/Library/Rime/squirrel.custom.yaml
+# 用法：想要哪项生效，就删去该行行首的#字符，但注意保留用于缩进的空格
+
+
+#  us_keyboard_layout: true      # 键盘选项：应用美式键盘佈局
+#  show_notifications_when: growl_is_running  # 状态通知，默认装有Growl时显示，也可设爲全开（always）全关（never）
+#  style/horizontal: true        # 候选窗横向显示
+#  style/inline_preedit: false   # 非内嵌编码行
+#  style/font_face: "俪黑 Pro"    # 我喜欢的字体名称
+#  style/font_point: 21          # 字号
+#  style/corner_radius: 10       # 窗口圆角半径
+#  style/border_height: 0        # 窗口边界高度，大于圆角半径才有效果
+#  style/border_width: 0         # 窗口边界宽度，大于圆角半径才有效果
+  style/color_scheme: starcraft      # 选择配色方案
+
+# 注：预设的配色方案及代码（指定爲 style/color_scheme ）
+#   系统默认色系 - native
+#   碧水 - aqua
+#   青天 - azure
+#   明月 - luna
+#   墨池 - ink
+#   孤寺 - lost_temple
+#   暗堂 - dark_temple
+#   星际我争霸 - starcraft
+#   谷歌 - google
+#   晒经石 - solarized_rock
+#   简约白 - clean_white
